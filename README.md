@@ -1,7 +1,9 @@
  Banking Fraud Detection Analysis – EDA Project
+ 
 This project focuses on Exploratory Data Analysis (EDA) of a banking dataset to identify patterns, trends, and potential indicators of fraudulent activities. The analysis helps understand customer behavior, transaction characteristics, and risk factors associated with fraud detection.
 
 Objective
+
 The main goals of this project are:
 Understand the structure and quality of the dataset
 Identify missing values and duplicates
@@ -11,6 +13,7 @@ Generate insights using data visualization
 Dataset Description
 
 The dataset contains banking and customer transaction details such as:
+
 Customer information
 Transaction details
 Loan and credit features
